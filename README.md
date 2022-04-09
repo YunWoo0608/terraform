@@ -9,15 +9,15 @@ AWS
 
 # Module 
 VPC ( Upload )
-EC2
-Redis 
-DocumentDB
-AutoScalingGroup
-WAFv2
-S3
-Bastion
-LoadBlancer
-Proxy
-EKS
-tfbackend
-SecretManager
+<br>EC2
+<br>Redis 
+<br>DocumentDB
+<br>AutoScalingGroup
+<br>WAFv2
+<br>S3
+<br>Bastion
+<br>LoadBlancer
+<br>Proxy
+<br>EKS
+<br>tfbackend
+<br>SecretManager
