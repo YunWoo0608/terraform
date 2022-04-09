@@ -15,9 +15,6 @@ VPC ( Upload )
 <br>AutoScalingGroup
 <br>WAFv2
 <br>S3
-<br>Bastion
 <br>LoadBlancer
-<br>Proxy
 <br>EKS
-<br>tfbackend
 <br>SecretManager
