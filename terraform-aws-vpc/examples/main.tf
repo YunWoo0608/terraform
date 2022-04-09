@@ -22,13 +22,4 @@ module "vpc" {
     private  = ["10.111.2.0/24", "10.111.3.0/24"]
     database = ["10.111.4.0/24", "10.111.5.0/24"]
   }
-  
-  subnet_tags = {
-    public = {
-      "kubernetes.io/role/elb" = "1"
-    }
-    private = {
-      "kubernetes.io/role/internal-elb" = "1"
-    }
-  }
 }
